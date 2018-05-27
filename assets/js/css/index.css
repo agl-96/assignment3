@@ -1,0 +1,189 @@
+.robot{
+    width: 300px;
+    height: 330px;
+    
+    
+}
+.robots{
+    margin-top: 100px;
+}
+
+.heading{
+    font-size: 40px;
+    font-weight: 10px;
+}
+
+.example{
+    background-color: #3498DB;
+    
+    
+    
+}
+
+.text-center{
+    color:white;
+    font-size: 20px;
+}
+
+.example1{
+    background-color:gray;
+    
+    
+
+}
+.btns{
+margin-top: 10px;
+background-color: gray;
+border-color:white;
+}
+.nature{
+    width:100%;
+    height:500px;
+
+    
+}
+.text-over-image{
+   margin-top:-520px;
+   font-size: 30px;
+   color: white;
+}
+
+.example2{
+    margin-top:-480px;
+    font-size: 20px;
+    color: white;
+    
+}
+
+.example3{
+    margin-top:-390px;
+    font-size: 20px;
+    color: white;
+
+}
+
+.example4{
+    margin-top:-300px;
+    font-size: 20px;
+    color: white;
+    
+}
+
+
+.example5{
+    margin-top: -440px;
+    
+}
+
+
+
+#contact input[type="text"],
+#contact input[type="email"],
+#contact input[type="tel"],
+#contact input[type="url"],
+#contact textarea {
+  width: 60%;
+  border: 1px solid #ccc;
+  background: #FFF;
+  margin: 0 0 5px;
+  padding: 10px;
+  
+}
+
+#contact button[type="submit"] {
+    cursor: pointer;
+    width: 60%;
+    border: none;
+    background: #4CAF50;
+    color: #FFF;
+    margin: 0 0 5px;
+    padding: 10px;
+    font-size: 15px;
+  }
+  
+  #contact h3 {
+    margin: 5px 0 15px;
+    display: block;
+    font-size: 30px;
+    font-weight: 400px;
+    color: white;
+  }
+  
+  .bg-image{
+      height: 580px;
+     width: 100%;
+     
+  }
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

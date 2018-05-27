@@ -1,0 +1,8 @@
+.bg-image{
+  background: url('nature.jpg') no-repeat;
+  width: 100%;
+  min-height: 100%;
+  
+  margin: 0;
+  
+}
